@@ -7,3 +7,19 @@ Hello, I am Breno Martinez 👋
   <img align="center" alt="Lucas-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
+
+##
+
+<div align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/breno-martinez-23b2a7204/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Brenomartinez?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
+  </a>
+
+</div>
