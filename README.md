@@ -10,7 +10,7 @@ Hello, I am Breno Martinez 👋
 
 ##
 
-<div align="center">
+<div style="display: inline_block"><br>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/breno-martinez-23b2a7204/" target="_blank">
